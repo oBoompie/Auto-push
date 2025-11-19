@@ -1,0 +1,39 @@
+How to use it:
+
+
+Save the file as auto_push.ps1 inside your project root.
+
+
+Right-click the file → Run with PowerShell.
+
+
+It will automatically:
+
+
+Stage all changes
+
+
+Commit them with the message "Auto-update: commit all changes"
+
+
+Push to the main branch on GitHub
+
+
+
+
+
+✅ Optional: You can double-click a shortcut to this script on your desktop for even quicker access.
+
+If you want, I can make a more advanced version that:
+
+
+Automatically detects your GitHub remote (or asks for it once)
+
+
+Skips empty commits
+
+
+Creates the remote repository via the GitHub API if it doesn’t exist
+
+
+Do you want me to make that version?
